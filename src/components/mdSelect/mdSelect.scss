@@ -62,6 +62,7 @@ $select-height: 32px;
   select {
     position: absolute;
     left: -999em;
+    display: none;
   }
 
   .md-menu {
